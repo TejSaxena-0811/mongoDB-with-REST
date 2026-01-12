@@ -1,0 +1,21 @@
+body{
+    margin-left: 20px;
+}
+
+ul{
+    list-style: none;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+li{
+    padding: 5px;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 10px;
+}
